@@ -1,0 +1,6 @@
+flask
+numpy
+tensorflow
+librosa
+werkzeug
+flask-cors
